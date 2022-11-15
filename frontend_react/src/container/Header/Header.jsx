@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import {TfiYoutube} from 'react-icons/tfi'
 
-import { AppWrap } from '../../wrapper';
+// import { AppWrap } from '../../wrapper';
 import { images } from '../../constants';
 import './Header.scss';
 
